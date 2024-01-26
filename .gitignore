@@ -1,4 +1,5 @@
 # ignore all .txt files
 *.env
 *.txt
+!requirements.txt
 *.idea/

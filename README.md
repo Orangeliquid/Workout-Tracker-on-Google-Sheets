@@ -36,4 +36,4 @@ Before running the script, make sure you have the following environmental variab
 - datetime
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).

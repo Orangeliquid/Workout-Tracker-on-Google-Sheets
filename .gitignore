@@ -2,4 +2,5 @@
 *.env
 *.txt
 !requirements.txt
+!LICENSE.txt
 *.idea/
